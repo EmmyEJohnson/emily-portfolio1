@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "MERN Stack",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+    image: "",
     link: "https://reactbootcamp.com",
   },
   {
@@ -12,23 +12,23 @@ export const projects = [
     subtitle: "Python",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+    image: "",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
+    title: "The Virtual Stir",
     subtitle: "Express",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+    image: "",
     link: "https://reactbootcamp.com",
   },
   {
     title: "Epic Fails App",
-    subtitle: "Django",
+    subtitle: "Python and Django",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+    image: "",
     link: "https://reactbootcamp.com",
   },
 ];
