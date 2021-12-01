@@ -47,7 +47,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                10505 Sea Pearl Cove #7 <br />
+                10505 Sea Pearl Cove <br />
                 San Diego, CA 92130
               </p>
             </div>
