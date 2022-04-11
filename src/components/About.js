@@ -9,13 +9,10 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Emily Elizabeth.
-            <br className="hidden lg:inline-block" /> I love to build amazing
-            apps.
+            <br className="hidden lg:inline-block" /> I love making pages come to life.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            Certified in both front-end and back-end development I create static free dynamic websites and apps with fast load times and lag free interaction. I have a strong preference for easy to use, intuitive UX/UI and my layouts will work on any device, big or small. 
           </p>
           <div className="flex justify-center">
             <a
@@ -34,7 +31,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./emily.jpeg"
+            src="./images/emily2.jpeg"
           />
         </div>
       </div>
