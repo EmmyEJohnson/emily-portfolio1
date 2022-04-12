@@ -12,7 +12,7 @@ export default function About() {
             <br className="hidden lg:inline-block" /> I love making pages come to life.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Certified in both front-end and back-end development I create static free dynamic websites and apps with fast load times and lag free interaction. I have a strong preference for easy to use, intuitive UX/UI and my layouts will work on any device, big or small. 
+          Certified in front-end, back-end development and database management, I create static free dynamic websites and apps with fast load times and lag free interaction. I have a strong preference for easy to use, intuitive UX/UI and my layouts will work on any device, big or small.
           </p>
           <div className="flex justify-center">
             <a
