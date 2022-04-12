@@ -5,10 +5,10 @@
   "dependencies": {
     "@craco/craco": "^5.9.0",
     "@heroicons/react": "^1.0.1",
-    "emailjs-com": "^3.2.0",
+    "postcss": "^8.4.12",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^4.0.3"
+    "react-scripts": "^5.0.0"
   },
   "scripts": {
     "start": "craco start",
@@ -28,7 +28,6 @@
     "@tailwindcss/line-clamp": "^0.3.1",
     "@tailwindcss/typography": "^0.5.2",
     "autoprefixer": "^10.4.4",
-    "postcss": "^8.4.12",
     "tailwindcss": "^3.0.23"
   },
   "browserslist": {
