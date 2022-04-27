@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "Python and Django",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "",
+    image: "./images/pythonDjango.png",
     link: "https://reactbootcamp.com",
   },
 ];
