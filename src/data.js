@@ -4,15 +4,15 @@ export const projects = [
     subtitle: "MERN Stack",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "",
+    image: "./images/mernicon.jpeg",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Python",
-    subtitle: "Python",
+    title: "JavaScript",
+    subtitle: "Pure JavaScript",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "",
+    image: "./images/htmlcssJS.png",
     link: "https://reactbootcamp.com",
   },
   {
