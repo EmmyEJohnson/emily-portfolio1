@@ -3,15 +3,15 @@ export const projects = [
     title: "React",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./images/mernicon.jpeg",
+      "Assigned project by Gernal Assembly instructors.",
+    image: "./images/mernStack.png",
     link: "https://reactbootcamp.com",
   },
   {
     title: "JavaScript",
     subtitle: "Pure JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Very first project ever built in General Assembly. A game of checkers with a pirate theme using 'vanilla' JavaScript, HTML, and CSS.",
     image: "./images/htmlcssJS.png",
     link: "https://reactbootcamp.com",
   },
@@ -19,8 +19,8 @@ export const projects = [
     title: "The Virtual Stir",
     subtitle: "Express",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "",
+      "An assigned project to a partner and I from General Assembly. We started to create a virtual bar hopping app during the Covid quarantine.",
+    image: "./images/express.png",
     link: "https://reactbootcamp.com",
   },
   {
