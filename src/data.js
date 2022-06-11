@@ -7,14 +7,16 @@ export const projects = [
     image: "./images/mernStack.png",
     link: "https://reactbootcamp.com",
   },
+
   {
     title: "JavaScript",
     subtitle: "Pure JavaScript",
     description:
-      "Very first project ever built in General Assembly. A game of checkers with a pirate theme using 'vanilla' JavaScript, HTML, and CSS.",
+      "Most recent game built using Javascript and Phaser. Jump around collecting stars and avoiding 'bad gus' and 'bombs' using arrow keys.",
     image: "./images/htmlcssJS.png",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/EmmyEJohnson/star-collector",
   },
+
   {
     title: "The Virtual Stir",
     subtitle: "Express",
@@ -23,6 +25,7 @@ export const projects = [
     image: "./images/express.png",
     link: "https://reactbootcamp.com",
   },
+  
   {
     title: "Epic Fails App",
     subtitle: "Python and Django",
@@ -52,9 +55,11 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
+  "TypeScript",
   "Java",
   "React",
   "Python",
+  "Ruby on Rails",
   "Angular",
   "Node.js",
   "Django(SQL)",
