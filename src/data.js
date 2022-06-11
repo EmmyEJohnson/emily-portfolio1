@@ -25,7 +25,7 @@ export const projects = [
     image: "./images/express.png",
     link: "https://reactbootcamp.com",
   },
-  
+
   {
     title: "Epic Fails App",
     subtitle: "Python and Django",
@@ -40,16 +40,16 @@ export const testimonials = [
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "./images/Unknown.jpeg",
-    name: "Joe Schmoe",
-    company: "Schmoozle",
+    image: "./images/FrozenRobert.png",
+    name: "Robert Sato",
+    company: "Zing Credit Union",
   },
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "./images/debbie.jpeg",
-    name: "Debbie Cakes",
-    company: "Resume.io",
+    image: "./images/MikeStarkImage.png",
+    name: "Michael Stark",
+    company: "Phillips",
   },
 ];
 
