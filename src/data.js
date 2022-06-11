@@ -1,12 +1,4 @@
 export const projects = [
-  {
-    title: "React",
-    subtitle: "MERN Stack",
-    description:
-      "Assigned project by Gernal Assembly instructors.",
-    image: "./images/mernStack.png",
-    link: "https://reactbootcamp.com",
-  },
 
   {
     title: "Epic Fails App",
@@ -18,6 +10,25 @@ export const projects = [
   },
   
   {
+    title: "JavaScript",
+    subtitle: "Pure JavaScript",
+    description:
+    "Most recent game built using Javascript and Phaser. Jump around collecting stars and avoiding 'bad gus' and 'bombs' using arrow keys.",
+    image: "./images/htmlcssJS.png",
+    link: "https://github.com/EmmyEJohnson/star-collector",
+  },
+
+
+  {
+    title: "React",
+    subtitle: "MERN Stack",
+    description:
+      "Assigned project by Gernal Assembly instructors.",
+    image: "./images/mernStack.png",
+    link: "https://reactbootcamp.com",
+  },
+  
+  {
     title: "The Virtual Stir",
     subtitle: "Express",
     description:
@@ -25,15 +36,7 @@ export const projects = [
     image: "./images/express.png",
     link: "https://reactbootcamp.com",
   },
-  
-    {
-      title: "JavaScript",
-      subtitle: "Pure JavaScript",
-      description:
-        "Most recent game built using Javascript and Phaser. Jump around collecting stars and avoiding 'bad gus' and 'bombs' using arrow keys.",
-      image: "./images/htmlcssJS.png",
-      link: "https://github.com/EmmyEJohnson/star-collector",
-    },
+
 ];
 
 export const testimonials = [
