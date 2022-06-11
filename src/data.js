@@ -34,7 +34,7 @@ export const projects = [
     description:
     "An assigned project to a partner and I from General Assembly. We started to create a virtual bar hopping app during the Covid quarantine.",
     image: "./images/express.png",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/EmmyEJohnson/Project-2-Servers-Stay-Home-Bar-App",
   },
 
 ];
