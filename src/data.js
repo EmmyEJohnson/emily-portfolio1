@@ -10,8 +10,8 @@ export const projects = [
   },
   
   {
-    title: "JavaScript",
-    subtitle: "Pure JavaScript",
+    title: "Star Collector",
+    subtitle: "JavaScript, HTML, and CSS",
     description:
     "Most recent game built using Javascript and Phaser. Jump around collecting stars and avoiding 'bad gus' and 'bombs' using arrow keys.",
     image: "./images/htmlcssJS.png",
@@ -20,19 +20,19 @@ export const projects = [
 
 
   {
-    title: "React",
+    title: "Memify",
     subtitle: "MERN Stack",
     description:
-      "Assigned project by Gernal Assembly instructors.",
+      "Memeify allows users to upload a picture, and memeify it by creating a caption (comment). Users can add their own comment to the image, creating a meme (image + comment). Users may like/dislike the comments to determine which meme is best. MERN Stack used to create this app.",
     image: "./images/mernStack.png",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/EmmyEJohnson/memeify",
   },
   
   {
     title: "The Virtual Stir",
     subtitle: "Express",
     description:
-    "An assigned project to a partner and I from General Assembly. We started to create a virtual bar hopping app during the Covid quarantine.",
+    "In the age of social distancing, BarHop allows users to socialize in their favorite watering hole and share drinks with friends.",
     image: "./images/express.png",
     link: "https://github.com/EmmyEJohnson/Project-2-Servers-Stay-Home-Bar-App",
   },
