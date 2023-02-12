@@ -42,14 +42,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Her RESTful API game is on point.",
     image: "./images/FrozenRobert.png",
     name: "Robert Sato",
     company: "Zing Credit Union",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Fun to work with and very resourceful",
     image: "./images/MikeStarkImage.png",
     name: "Michael Stark",
     company: "Phillips",
