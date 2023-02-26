@@ -1,10 +1,10 @@
 # Portfolio
 
 # Johns Hopkins Certification
-![A test image](https://i.imgur.com/RnX4p6M.png)
+![A test image](https://i.imgur.com/gLTb0ID.png)
 
 # General Assembly Certification
-![A test image](https://i.imgur.com/OMPy8GP.png)
+![A test image](https://i.imgur.com/ygE9qdC.png)
 
 # Figma Certificate
 ![A test image](https://i.imgur.com/aB4sBjc.png)
