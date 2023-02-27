@@ -1,12 +1,12 @@
 export const projects = [
 
   {
-    title: "Epic Fails App",
-    subtitle: "Python and Django",
+    title: "Senior React Deveoper",
+    subtitle: "React, Redux, Firebase, Stripe API, and GraphQL",
     description:
-    "This project is under construction",
-    image: "./images/pythonDjango.png",
-    link: "https://reactbootcamp.com",
+    "This project currently under construction but will be a fully fledged massive E-Commerce app",
+    image: "./images/reactDev.png",
+    link: "https://github.com/EmmyEJohnson/EmmyEJohnson.github.io-seniorReactDev",
   },
   
   {
