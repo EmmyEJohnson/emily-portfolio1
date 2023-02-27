@@ -4,7 +4,7 @@ export const projects = [
     title: "Senior React Deveoper",
     subtitle: "React, Redux, Firebase, Stripe API, and GraphQL",
     description:
-    "This project currently under construction but will be a fully fledged massive E-Commerce app",
+    "This project currently under construction but will be a massive E-Commerce app that will showcase my React dev skills.",
     image: "./images/reactDev.png",
     link: "https://github.com/EmmyEJohnson/EmmyEJohnson.github.io-seniorReactDev",
   },
