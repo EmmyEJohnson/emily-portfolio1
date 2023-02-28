@@ -6,7 +6,7 @@ export const projects = [
     description:
     "COMING SOON! This project currently under construction but will be a massive E-Commerce app that will showcase my React dev skills.",
     image: "./images/reactDev.png",
-    link: "https://github.com/EmmyEJohnson",
+    link: "https://github.com/EmmyEJohnson/reactDevProject",
   },
   
   {
