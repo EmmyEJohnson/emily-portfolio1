@@ -13,7 +13,7 @@ export const projects = [
     title: "Monsters Rolodex",
     subtitle: "React",
     description:
-    "This is a basic React App that allows you so search monsters in the search box.",
+    "This is a basic React App that allows you so search monsters in the search box.                                                    ",
     image: "./images/reactLogo.png",
     link: "https://github.com/EmmyEJohnson/monsters-rolodex",
   },
