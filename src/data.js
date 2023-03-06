@@ -8,6 +8,15 @@ export const projects = [
     image: "./images/reactDev.png",
     link: "https://github.com/EmmyEJohnson/reactDevProject",
   },
+
+  {
+    title: "Monsters Rolodex",
+    subtitle: "React",
+    description:
+    "Basic React App that allows you so search monsters in the search box.",
+    image: "./images/reactLogo.png",
+    link: "https://github.com/EmmyEJohnson/monsters-rolodex",
+  },
   
   {
     title: "Star Collector",
