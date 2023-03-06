@@ -23,7 +23,7 @@ export const projects = [
     subtitle: "JavaScript, HTML, and CSS",
     description:
     "Most recent game built using Javascript and Phaser. Jump around collecting stars and avoiding 'bad gus' and 'bombs' using arrow keys.",
-    image: "./images/htmlcssJS.png",
+    image: "./images/htmlCssJS.png",
     link: "https://github.com/EmmyEJohnson/star-collector",
   },
 
