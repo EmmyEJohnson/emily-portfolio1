@@ -33,7 +33,7 @@ export const projects = [
     subtitle: "MERN Stack",
     description:
       "Memeify allows users to upload a picture, and memeify it by creating a caption (comment). Users can add their own comment to the image, creating a meme (image + comment). Users may like/dislike the comments to determine which meme is best. MERN Stack used to create this app.",
-    image: "./images/mernStack.png",
+    image: "./images/MERN.png",
     link: "https://github.com/EmmyEJohnson/memeify",
   },
   
