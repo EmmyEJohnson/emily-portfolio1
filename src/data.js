@@ -4,7 +4,7 @@ export const projects = [
     title: "Senior React Deveoper",
     subtitle: "React, Redux, Firebase, Stripe API, and GraphQL",
     description:
-    "COMING SOON! This project currently under construction but will be a massive E-Commerce app that will showcase my React dev skills.",
+    "COMING SOON! This project currently under construction but will be a massive E-Commerce app that will showcase my React dev skills with REACT, Redux, Firebase, Stripe for payments, and GraphQL.",
     image: "./images/reactDev.png",
     link: "https://github.com/EmmyEJohnson/reactDevProject",
   },
@@ -22,7 +22,7 @@ export const projects = [
     title: "Star Collector",
     subtitle: "JavaScript, HTML, and CSS",
     description:
-    "Most recent game built using Javascript and Phaser. Jump around collecting stars and avoiding 'bad gus' and 'bombs' using arrow keys.",
+    "UNDER CONSTRUCTION. This is to be a basic game using HTML, CSS, and JavaScript. Will be my most recent game built with the help of Phaser. Player will be able to jump around collecting stars but will have to avoid 'bad guys' and 'bombs' using arrow keys.",
     image: "./images/htmlCssJS.png",
     link: "https://github.com/EmmyEJohnson/star-collector",
   },
@@ -44,6 +44,15 @@ export const projects = [
     "In the age of social distancing, BarHop allows users to socialize in their favorite watering hole and share drinks with friends.",
     image: "./images/express.png",
     link: "https://github.com/EmmyEJohnson/Project-2-Servers-Stay-Home-Bar-App",
+  },
+
+  {
+    title: "This Portfolio",
+    subtitle: "React, Tailwind, Netlify, JSON",
+    description:
+    "My portfolio is constantly under construction as I am always creating, building, editing, updating, and destroying. Here is the link to GitHub where one should be able to access the source code for this portfolio built using React, Tailwind to style, and Netflify to deploy.",
+    image: "./images/GitHub.png",
+    link: "https://github.com/EmmyEJohnson/emily-portfolio1",
   },
 
 ];
