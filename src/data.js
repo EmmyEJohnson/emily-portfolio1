@@ -40,8 +40,9 @@ export const projects = [
   {
     title: "The Virtual Stir",
     subtitle: "Express",
+    
     description:
-    "In the age of social distancing, BarHop allows users to socialize in their favorite watering hole and share drinks with friends.",
+    "In the age of social distancing, BarHop allows users to socialize in their favorite watering hole and share drinks with friends. This app was created using Express and Node. ",
     image: "./images/express.png",
     link: "https://github.com/EmmyEJohnson/Project-2-Servers-Stay-Home-Bar-App",
   },
