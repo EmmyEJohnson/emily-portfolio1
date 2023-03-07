@@ -13,7 +13,7 @@ export const projects = [
     title: "Monsters Rolodex",
     subtitle: "React",
     description:
-    "This is a basic React App that allows you so search monsters in the search box.",
+    "This is a basic React App that allows one to search monsters in the search box. Look through the source code to see the conversion from class components to functional components and hooks.",
     image: "./images/reactLogo.png",
     link: "https://github.com/EmmyEJohnson/monsters-rolodex",
   },
@@ -40,7 +40,7 @@ export const projects = [
   {
     title: "The Virtual Stir",
     subtitle: "Express",
-    
+
     description:
     "In the age of social distancing, BarHop allows users to socialize in their favorite watering hole and share drinks with friends. This app was created using Express and Node. ",
     image: "./images/express.png",
