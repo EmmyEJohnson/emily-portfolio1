@@ -8,8 +8,8 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Emily Elizabeth.
-            <br className="hidden lg:inline-block" /> I love making pages come to life.
+            Hi, I'm Emily Elizabeth
+            <br className="hidden lg:inline-block" /> and I like making pages come to life.
           </h1>
           <p className="mb-8 leading-relaxed">
           Certified in front-end, back-end development and database management, I create static free dynamic websites and apps with fast load times and lag free interaction. I have a strong preference for easy to use, intuitive UX/UI and my layouts will work on any device, big or small.
