@@ -61,14 +61,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Her RESTful API game is on point.",
+      "Emily's ideas are innovative and fresh and her RESTful API game is on point.",
     image: "./images/FrozenRobert.png",
     name: "Robert Sato",
     company: "Zing Credit Union",
   },
   {
     quote:
-      "Fun to work with and very resourceful",
+      "Emily is extremely imaginative not to mention fun to work with and very resourceful.",
     image: "./images/MikeStarkImage.png",
     name: "Michael Stark",
     company: "Phillips",
@@ -77,10 +77,13 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
+  "React",
+  "GraphQL",
+  "Firebase",
   "TypeScript",
   "Java",
-  "React",
   "Python",
+  "RESTful APIs",
   "Ruby on Rails",
   "Angular",
   "Node.js",
