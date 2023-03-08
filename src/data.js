@@ -15,7 +15,7 @@ export const projects = [
     description:
     "This is a basic React App that allows one to search monsters in the search box. Look through the source code to see the conversion from class components to functional components and hooks.",
     image: "./images/reactLogo.png",
-    link: "https://github.com/EmmyEJohnson/monsters-rolodex",
+    link: "https://emmyejohnson.github.io/monsters-rolodex/",
   },
   
   {
