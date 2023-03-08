@@ -1,12 +1,12 @@
 export const projects = [
 
   {
-    title: "Senior React Deveoper",
+    title: "React Developer E-Commerce Store",
     subtitle: "React, Redux, Firebase, Stripe API, and GraphQL",
     description:
-    "COMING SOON! This project currently under construction but will be a massive E-Commerce app that will showcase my React dev skills with REACT, Redux, Firebase, Stripe for payments, and GraphQL.",
+    "COMING SOON! This project is currently under construction. It will be a massive E-Commerce app to showcase myself as a 'senior' React developer using REACT, Redux, Firebase, Stripe for payments, and GraphQL.",
     image: "./images/reactDev.png",
-    link: "https://github.com/EmmyEJohnson/reactDevProject",
+    link: "https://github.com/EmmyEJohnson/react-ecommerce-store",
   },
 
   {
