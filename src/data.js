@@ -6,7 +6,7 @@ export const projects = [
     description:
     "COMING SOON! This project is currently under construction. It will be a massive E-Commerce app to showcase myself as a 'senior' React developer using REACT, Redux, Firebase, Stripe for payments, and GraphQL.",
     image: "./images/reactDev.png",
-    link: "https://github.com/EmmyEJohnson/react-ecommerce-store",
+    link: "https://react-white-hat-ecomstore.netlify.app",
   },
 
   {
