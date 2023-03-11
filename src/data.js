@@ -4,7 +4,7 @@ export const projects = [
     title: "React Developer E-Commerce Store",
     subtitle: "React, Redux, Firebase, Stripe API, and GraphQL",
     description:
-    "COMING SOON! This project is currently under construction. It will be a massive E-Commerce app to showcase myself as a 'senior' React developer using REACT, Redux, Firebase, Stripe for payments, and GraphQL.",
+    "This project is currently under construction. It will be a massive E-Commerce app to showcase myself as a 'senior' React developer using REACT, Redux, Firebase, Stripe for payments, and GraphQL.",
     image: "./images/reactDev.png",
     link: "https://react-white-hat-ecomstore.netlify.app",
   },
@@ -22,7 +22,7 @@ export const projects = [
     title: "Star Collector",
     subtitle: "JavaScript, HTML, and CSS",
     description:
-    "UNDER CONSTRUCTION. This is to be a basic game using HTML, CSS, and JavaScript. Will be my most recent game built with the help of Phaser. Player will be able to jump around collecting stars but will have to avoid 'bad guys' and 'bombs' using arrow keys.",
+    "Under construction! This is to be a basic game using HTML, CSS, and JavaScript. Will be my most recent game built with the help of Phaser. Player will be able to jump around collecting stars but will have to avoid 'bad guys' and 'bombs' using arrow keys.",
     image: "./images/htmlCssJS.png",
     link: "https://github.com/EmmyEJohnson/star-collector",
   },
