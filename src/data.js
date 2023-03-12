@@ -4,7 +4,7 @@ export const projects = [
     title: "React Developer E-Commerce Store",
     subtitle: "React, Redux, Firebase, Stripe API, and GraphQL",
     description:
-    "This project is currently under construction. It will be a massive E-Commerce app to showcase myself as a React developer using React, Redux to GraphQL, Firebase, and Stripe (demo) for payments.",
+    "This project is currently under construction. It will be a massive E-Commerce app to showcase myself as a React developer using React, Redux to GraphQL, Firebase, and Stripe demo for payments in demo mode. (This project has not yet been made mobile friendly.)",
     image: "./images/reactDev.png",
     link: "https://react-white-hat-ecomstore.netlify.app",
   },
@@ -13,7 +13,7 @@ export const projects = [
     title: "Monsters Rolodex",
     subtitle: "React",
     description:
-    "This is a basic React App that allows one to search monsters in the search box. Look through the source code to see the conversion from class components to functional components and hooks.",
+    "This is a basic React App that allows one to search monsters in the search box. Look through the source code to see the conversion from class components to functional components and hooks. (This project has not yet been made mobile friendly.)",
     image: "./images/reactLogo.png",
     link: "https://emmyejohnson.github.io/monsters-rolodex/",
   },
