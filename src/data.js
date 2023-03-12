@@ -4,7 +4,7 @@ export const projects = [
     title: "React Developer E-Commerce Store",
     subtitle: "React, Redux, Firebase, Stripe API, and GraphQL",
     description:
-    "This project is currently under construction. It will be a massive E-Commerce app to showcase myself as a 'senior' React developer using REACT, Redux, Firebase, Stripe for payments, and GraphQL.",
+    "This project is currently under construction. It will be a massive E-Commerce app to showcase myself as a React developer using React, Redux to GraphQL, Firebase, and Stripe (demo) for payments.",
     image: "./images/reactDev.png",
     link: "https://react-white-hat-ecomstore.netlify.app",
   },
