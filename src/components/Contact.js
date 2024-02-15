@@ -48,7 +48,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                10505 Sea Pearl Cove <br />
+                10590 W Ocean Air Dr. <br />
                 San Diego, CA 92130
               </p>
             </div>
@@ -57,12 +57,12 @@ export default function Contact() {
                 EMAIL
               </h2>
               <a href="mailto: emelizajo22@gmail.com" className="text-indigo-400 leading-relaxed">
-                emelizajo22@gmail.com
+                emily@activepacific.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">805-259-7654</p>
+              <p className="leading-relaxed">(Please email for contact)</p>
             </div>
           </div>
         </div>
