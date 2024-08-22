@@ -48,7 +48,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1"> 
-                899 Kettner Blvd                
+                899 Kettner Blvd <br>               
                 San Diego, CA 92101
               </p>
             </div>
